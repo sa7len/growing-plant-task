@@ -1,0 +1,209 @@
+.main-content{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.cover{
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head-logo img{
+ height: 64px; 
+ padding: 16px;
+}
+.head-logo{
+    background-color: #4f5a4e;
+}
+.introduce{
+    background-image: url("https://d1oco4z2z1fhwp.cloudfront.net/templates/default/4211/GardenHeroOverlayDark.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 550px;
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   
+}
+.introduce h1, h2{
+    color: #aaac8d;
+    line-height: 56px;
+}
+.introduce h1{
+ margin-top: 0px;  
+ font-size: 3.5em; 
+ margin-bottom: 0px;
+}
+.introduce h2{
+  margin-bottom: 0px;
+  font-size: 2.5em;
+}
+.introduce span{
+    color: #fff;
+    font-size: 16px;
+    padding: 0 30px 0 30px;
+}
+.introduce p{
+    color: #fff;
+    margin-top: 20px;
+    font-size: 24px;  
+}
+.tips-content{
+ display: flex;
+ width: 800px;
+}
+.introduce a{
+   border: 2px solid #aaac8d;
+    height: 30px;
+    width: 200px;
+    line-height: 30px;
+    text-decoration: none;
+    justify-content: center;
+    color: #aaac8d;
+    display: inline-block; 
+    margin-bottom: 18px;
+}
+.learn-more-btn{
+    text-align: center;
+    margin-top: 10px;
+}
+.tips{
+    background-color: #898679;
+    height: 600px;
+}
+.tips-content{
+    max-width: 800px;
+    margin: auto;
+}
+.plant-pic img{
+    width: 350px;
+    height: 600px;
+}
+.tips-text img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    float: left;
+}
+.tips-text{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    text-align: left;
+}
+.txt h1{
+    font-size: 40px;
+}
+.txt{
+    padding-left: 20px;
+}
+.tips-2{
+    background-color: #95a9a4;
+    height: 600px;
+
+}
+.tips-text-2{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    text-align: right;
+}
+.tips-text-2 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    float: right;
+    display: inline-block;
+    justify-content: flex-end;
+
+}
+.horow{
+    float: right;
+}
+.txt-2 h1{
+    font-size: 40px;
+}
+.txt-2{
+    padding-right: 20px;
+}
+.third{
+    background-color: #cfb06d;
+}
+.fourth{
+    background-color: #bebea2;
+}
+.fifth{
+    background-color: #bc9375;
+}
+.sixth{
+ background-color: #b2a9b6;
+}
+.seventh{
+    background-color: #dfb797;
+}
+.eighth{
+    background-color: #aaac8d;
+}
+.nineth{
+    background-color: #c894a2 ;
+}
+.tenth{
+    background-color: #b6bfcb;
+}
+.last{
+    background-color: #4f5a4e;
+    margin: auto;
+}
+.box-content{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.box img{
+ width: 150px;
+ height: 150px;
+ border-radius: 10px;
+}
+.read-more-btn a{
+    border: 1px solid #aaac8d;
+    height: 30px;
+    width: 100px;
+    line-height: 30px;
+    text-decoration: none;
+    justify-content: center;
+    color: #aaac8d;
+    text-align: center;
+    display: inline-block; 
+    margin-bottom: 18px;
+}
+.box{
+    color: #fff;
+   width: calc(100% / 6);
+   padding: 30px;
+}
+.box-content{
+    width: 100%;
+    padding: 20px;
+    padding-left: 0;
+}
+.last h2{
+   color: #bebea2;
+   margin: 0;
+   font-size: 36px;
+   font-weight: 700;
+   padding: 30px;
+}
+.foot img{
+    height: 60px;
+    padding-top: 20px;
+}
+.foot a{
+    color: #cfb06d;
+}
+.social-media img{
+ height: 36px;
+}
+.foot span{
+    font-size: 10px;
+    padding: 30px;
+}
